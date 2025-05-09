@@ -1,0 +1,87 @@
+[
+    {
+      "commodity": "Silver Mar",
+      "change": { "value": 0.022, "percentage": 0.06 },
+      "bid": 29.51,
+      "ask": 35.98,
+      "bidIsValue": "-",
+      "askisvalue": "+",
+      "time": "22:54:59.859",
+      "volume": 6470,
+      "open": 34.305,
+      "close": 34.033,
+      "high": 34.305,
+      "low": 34.055
+    },
+    {
+      "commodity": "Palladium Mar",
+      "change": { "value": 11.50, "percentage": 1.19 },
+      "bid": 970.5,
+      "ask": 978.5,
+      "bidIsValue": "+",
+      "askisvalue": "+",
+      "time": "22:59:59.294",
+      "volume": 800,
+      "open": 969.00,
+      "close": 974.00,
+      "high": 974.00,
+      "low": 969.00
+    },
+    {
+      "commodity": "Platinum Apr",
+      "change": { "value": 14.50, "percentage": 1.50 },
+      "bid": 985.2,
+      "ask": 1025.4,
+      "bidIsValue": "-",
+      "askisvalue": "+",
+      "time": "22:34:59.843",
+      "volume": 4020,
+      "open": 982.70,
+      "close": 979.90,
+      "high": 982.70,
+      "low": 964.80
+    },
+    {
+      "commodity": "Mini Gold Apr",
+      "change": { "value": 2.10, "percentage": 0.06 },
+      "bid": 2928.60,
+      "ask": 3332.20,
+      "bidIsValue": "-",
+      "askisvalue": "+",
+      "time": "22:54:59.859",
+      "volume": 40360,
+      "open": 3284.50,
+      "close": 3282.40,
+      "high": 3284.50,
+      "low": 3284.50
+    },
+    {
+      "commodity": "Mini Silver Mar",
+      "change": { "value": -0.022, "percentage": 0.06 },
+      "bid": 29.51,
+      "ask": 35.98,
+      "bidIsValue": "-",
+      "askisvalue": "+",
+      "time": "22:54:59.859",
+      "volume": 6470,
+      "open": 34.305,
+      "close": 34.033,
+      "high": 34.305,
+      "low": 34.055
+    },
+    {
+      "commodity": "Copper Mar",
+      "change": { "value": -0.1070, "percentage": -2.05 },
+      "bid": 4.110,
+      "ask": 5.313,
+      "bidIsValue": "-",
+      "askisvalue": "+",
+      "time": "22:34:59.843",
+      "volume": 5020,
+      "open": 3.999,
+      "close": 5.221,
+      "high": 5.313,
+      "low": 3.564
+    }
+  ]
+  

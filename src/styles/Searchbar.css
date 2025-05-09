@@ -1,0 +1,19 @@
+.search-bar {
+    padding: 10px;
+  }
+  
+  .search-bar input {
+    width: 95%;
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    border-color: rgb(214, 214, 214);
+  }
+  .search-bar i.fa-search {
+    position: absolute;
+    left: 20px;
+    transform: translateY(-149%);
+    font-size: 18px;
+    color: #aaa;
+  }

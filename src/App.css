@@ -1,0 +1,35 @@
+:root {
+  --primary-bg-color: #fcf1ff;
+  --secondary-bg-color: #fcf2ff;
+  --text-color: #c00;
+  --body-bg-color: #fffdfd;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: var(--body-bg-color);
+}
+
+.app {
+  max-width: 400px;
+  margin: auto;
+  background-color: var(--primary-bg-color);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.public-news {
+  font-size: 12px;
+  background-color: var(--secondary-bg-color);
+  padding: 6px;
+  margin-left: 12px;
+  color: var(--text-color);
+}
+
+.icon {
+  height: 20px;
+  width: 20px;
+}

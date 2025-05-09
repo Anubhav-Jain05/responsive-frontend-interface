@@ -1,0 +1,27 @@
+.bottom-nav {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    max-width: 400px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #e2e3e8;
+    border-top: 1px solid #ddd;
+    padding: 8px 0;
+  }
+  
+  .bottom-nav button {
+    background: none;
+    border: none;
+    font-size: 14px;
+    cursor: pointer;
+  }
+
+  .btn-wrapper{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .quote-red{
+    color:#ff0000;
+  }
